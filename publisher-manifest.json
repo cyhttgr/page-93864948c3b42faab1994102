@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "de43a93f798b793fbadaed16",
+  "owner": "cyhttgr",
+  "repo": "page-93864948c3b42faab1994102",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "93864948c3b42faab1994102",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a16f608b8c581af131444722336be5da0284fb0d91bb155716812d6192e2a382",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供稳定VPN加速器服务，客户端下载和机场订阅。解锁流媒体，优化游戏加速。访问官网获取更多套餐信息。",
+          "AI_DESCRIPTION": "365VPN 提供稳定VPN加速器服务，客户端下载和机场订阅。解锁流媒体，优化游戏加速。访问官网获取更多套餐信息。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deepblue: #0A2540;\n            --cyan: #00D4FF;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: linear-gradient(#0A2540, #071825);\n            color: #f0f0f0;\n            line-height: 1.6;\n            padding: 0;\n            overflow-x: hidden;\n        }\n        nav {\n            position: sticky;\n            top: 0;\n            background: rgba(10, 37, 64, 0.95);\n            padding: 1rem 5%;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            z-index: 100;\n            flex-wrap: wrap;\n        }\n        nav a {\n            color: #fff;\n            text-decoration: none;\n            font-weight: 600;\n            margin: 0 1rem;\n            transition: color 0.3s;\n        }\n        nav a:hover {\n            color: var(--cyan);\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 2rem 5%;\n        }\n        h1 {\n            font-size: 3rem;\n            color: var(--cyan);\n            margin-bottom: 1rem;\n            text-align: center;\n        }\n        section {\n            margin-bottom: 4rem;\n        }\n        h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            border-bottom: 2px solid var(--cyan);\n            padding-bottom: 0.5rem;\n        }\n        ol {\n            list-style: none;\n            display: flex;\n            flex-direction: column;\n            gap: 1.5rem;\n        }\n        li {\n            background: #112244;\n            padding: 1.5rem;\n            border-radius: 8px;\n            position: relative;\n            transition: transform 0.3s;\n        }\n        li:hover {\n            transform: translateY(-4px);\n        }\n        .step-number {\n            position: absolute;\n            left: -1rem;\n            top: 1.5rem;\n            background: var(--cyan);\n            color: var(--deepblue);\n            width: 2.5rem;\n            height: 2.5rem;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            font-size: 1.2rem;\n            box-shadow: 0 0 0 4px rgba(0, 212, 255, 0.2);\n        }\n        .cta {\n            background: var(--cyan);\n            color: var(--deepblue);\n            padding: 0.75rem 1.5rem;\n            border-radius: 6px;\n            text-decoration: none;\n            font-weight: 600;\n            display: inline-block;\n            margin-top: 1rem;\n            transition: all 0.3s;\n        }\n        .cta:hover {\n            background: #fff;\n            transform: scale(1.05);\n        }\n        details {\n            margin: 1rem 0;\n            background: #112244;\n            border-radius: 6px;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            padding: 0.5rem 1rem;\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        footer {\n            background: #071825;\n            padding: 2rem 5%;\n            text-align: center;\n            color: #aaa;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            main {\n                padding: 1.5rem 3%;\n            }\n            h1 {\n                font-size: 2.2rem;\n            }\n            ol {\n                gap: 1rem;\n            }\n            li {\n                padding: 1.25rem;\n            }\n            .step-number {\n                left: -0.75rem;\n                width: 2rem;\n                height: 2rem;\n                font-size: 1rem;\n                top: 1.25rem;\n            }\n        }\n    </style>\n\n\n    <nav>\n        <a href=\"#home\">365VPN</a>\n        <a href=\"#plans\">套餐</a>\n        <a href=\"#steps\">步骤</a>\n        <a href=\"#faq\">FAQ</a>\n        <a href=\"#download\">下载</a>\n    </nav>\n    <main>\n        <section id=\"home\">\n            <h1>365VPN</h1>\n            <p>安全稳定的VPN加速器，让您畅享高速上网</p>\n            <a href=\"#download\" class=\"cta\">立即下载客户端</a>\n        </section>\n\n        <section id=\"steps\">\n            <h2>纵向步骤指南</h2>\n            <ol>\n                <li>\n                    <div class=\"step-number\">1</div>\n                    <h3>选择套餐</h3>\n                    <p>根据您的需求选择适合的套餐，享受不同等级的服务。</p>\n                </li>\n                <li>\n                    <div class=\"step-number\">2</div>\n                    <h3>下载客户端</h3>\n                    <p>访问官网下载官方客户端，支持主流操作系统。</p>\n                </li>\n                <li>\n                    <div class=\"step-number\">3</div>\n                    <h3>安装与配置</h3>\n                    <p>安装后登录账号，选择节点一键连接。</p>\n                </li>\n                <li>\n                    <div class=\"step-number\">4</div>\n                    <h3>享受加速</h3>\n                    <p>连接节点后，享受高速稳定连接，解锁流媒体。</p>\n                </li>\n            </ol>\n        </section>\n\n        <section id=\"plans\">\n            {{PLANS_HTML}}\n        </section>\n\n        <section>\n            <h2>使用场景</h2>\n            <p>365VPN 适用于旅行出差、在线办公、游戏竞技、视频观看和隐私保护等场景。无论您是在家还是外出，都能获得优质的服务。</p>\n        </section>\n\n        <section id=\"faq\">\n            <h2>常见问题解答</h2>\n            <details>\n                <summary>365VPN 支持哪些设备？</summary>\n                <p>365VPN 客户端支持 Windows、macOS、iOS、Android 和 Linux 等主流操作系统。</p>\n            </details>\n            <details>\n                <summary>如何获取客户端下载？</summary>\n                <p>请访问官网导航栏中的下载链接，或在页面底部查找官方下载入口。</p>\n            </details>\n            <details>\n                <summary>365VPN 如何解锁流媒体？</summary>\n                <p>通过连接对应节点，可解锁Netflix、Disney+、YouTube 等主流流媒体平台。</p>\n            </details>\n            <details>\n                <summary>套餐有不同版本吗？</summary>\n                <p>是的，我们提供基础版、旗舰版和团队版等多个套餐供选择。</p>\n            </details>\n            <details>\n                <summary>节点池有哪些特点？</summary>\n                <p>365VPN 提供多种线路节点，覆盖全球各地，确保连接稳定且速度更快。</p>\n            </details>\n        </section>\n\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            <p>立即访问官网下载365VPN客户端，开启您的加速之旅。</p>\n            <a href=\"#\" class=\"cta\">下载官方客户端</a>\n        </section>\n\n        <section id=\"clients\">\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n    <footer>\n        <p>© 365VPN 所有权利保留 | <a href=\"#\">隐私政策</a> | <a href=\"#\">服务条款</a></p>\n    </footer>\n\n",
+          "hash": "804757cdedce5ed5d684e8cbf9d62ae1fee548202453594d42cc1f2007355958",
+          "seo": {
+            "title": "365VPN 官网 | VPN加速器 客户端下载 | 机场订阅",
+            "keywords": "365VPN,VPN加速器,机场订阅,客户端下载,网络加速,VPN节点,流媒体解锁",
+            "description": "365VPN 提供稳定VPN加速器服务，客户端下载和机场订阅。解锁流媒体，优化游戏加速。访问官网获取更多套餐信息。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xibufanyong.cn",
+    "host": "c.xibufanyong.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "xibufanyong.cn",
+      "url": "https://xibufanyong.cn/",
+      "label": "GuGuEx",
+      "apex": "xibufanyong.cn",
+      "kind": null,
+      "identity": "jcpaept/page-42681d5479aa86ad8619f89c"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "093a0d88bcca07113c00129cf2a5b1a39bcb6d5f9a07a6a497251c0502966dd4",
+    "sitemap.xml": "44a22a82f39ed8ae225d055755d25e98bc328e3f2cb145dfb011c46256ddc5f5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1f213b4c05fb0d474f8f3f90cf7fd6c7e8845d5cd697a2322071e11bf46e05ba",
+    "robots.txt": "af33cee983c326d7ac13a6dbb2ef10d835e38dc937bb2f84f578af0a32fd955f",
+    "e951ad4657d801d229c7a53d6a0cf4ea.txt": "558cd5cf62188e05a587f3a0eaf08c1f201eec5c46443849f86a7c59dccea398"
+  },
+  "revision": "17137a8cfecb50f9d98218715952a98d9b09a4d0af36435461e04b184dccab6d"
+}
